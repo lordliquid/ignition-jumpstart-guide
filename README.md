@@ -40,9 +40,18 @@ You will then be asked to choose a version.
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
 Choose com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype version:
 </kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">1: 1.0.1 </kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">2: 1.0.2 </kdb></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">3: 1.0.3 </kbd></br></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+1: 1.0.1
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+2: 1.0.2
+</kdb></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+3: 1.0.3
+</kbd></br></br>
 
 
 *Simply pick the version you want ( Most likely option 3, the current latest version )*
@@ -57,16 +66,45 @@ This example will create the module *com.companyname.category.testing* version 1
 *Note: I chose to opt-out of doing SNAPSHOT's*</br>
 
 
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Define value for property 'groupId': <bold style="color: gray;">com.companyname.category</bold></kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Define value for property 'artifactId': <bold style="color: gray;">testing</bold></kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Define value for property 'version' 1.0-SNAPSHOT: : <bold style="color: gray;">1.0.0</bold></kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Define value for property 'package' com.steritec.modules: : <bold style="color: gray;"><-- Left Blank</bold></kbd></br></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Confirm properties configuration:</kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">groupId: com.steritec.modules</kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">artifactId: testing</kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">version: 1.0.0</kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">package: com.steritec.modules</kbd></br>
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">Y: <bold style="color: gray;">Y</bold></kbd></br>
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Define value for property 'groupId': <bold style="color: gray;">com.companyname.category</bold>
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Define value for property 'artifactId': <bold style="color: gray;">testing</bold>
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Define value for property 'version' 1.0-SNAPSHOT: : <bold style="color: gray;">1.0.0</bold>
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Define value for property 'package' com.steritec.modules: : <bold style="color: gray;">(I Left Blank)</bold>
+</kbd></br></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Confirm properties configuration:
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+groupId: com.steritec.modules
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+artifactId: testing
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+version: 1.0.0
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+package: com.steritec.modules
+</kbd></br>
+
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+Y: <bold style="color: gray;">Y</bold>
+</kbd></br>
 </br></br>
 
 -------
