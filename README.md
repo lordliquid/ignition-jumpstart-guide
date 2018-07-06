@@ -16,7 +16,8 @@ You will be presented with an option "Choose a number or apply filter". </br>
 
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px;">
 Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains):
-</kbd></br></br>
+</kbd>
+</br></br>
 
 *Type the following filter:*
 
@@ -26,7 +27,8 @@ Choose a number or apply filter (format: [groupId:]artifactId, case sensitive co
 
 You will be presented the option.
 
-<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">*1: remote -> com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype*</kbd></br></br>
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">1: remote -> com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype</kbd>
+</br></br>
 
 Simply choose an option:</br>
 *The only current option:*
@@ -38,20 +40,14 @@ Simply choose an option:</br>
 You will then be asked to choose a version.
 
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
-Choose com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype version:
+Choose com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype version
 </kbd></br>
-
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
-1: 1.0.1
-</kbd></br>
-
+1: 1.0.1</kbd></br>
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
-2: 1.0.2
-</kdb></br>
-
+2: 1.0.2</kbd></br>
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
-3: 1.0.3
-</kbd></br></br>
+3: 1.0.3</kbd></br></br>
 
 
 *Simply pick the version you want ( Most likely option 3, the current latest version )*
