@@ -5,8 +5,9 @@
 
 <code>Quick Start With ArcheTypes</code>
 ---------------------------
+You must have Maven installed before you can complete this guide.
 
-*In a command prompt type the following command:*
+*In a command prompt 'change directory' to the location you wish to store your modules, type the following command:*
 
     mvn archetype:generate
 
