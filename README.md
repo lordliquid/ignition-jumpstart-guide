@@ -185,9 +185,31 @@ Add the following two lines to the bottom of that section:
     wrapper.java.additional.7=-Dignition.allowunsignedmodules=true
     wrapper.java.additional.11=-Dia.developer.moduleupload=true
 
-Finally save the file:
+Save the file:
 
     File -> Save
+
+We now need to add the execution to the pom.xml file located in the newly created "[artifactId]-build" folder:</br>
+Should look like this:
+
+```xml
+        <executions>
+            <execution>
+                <phase>package</phase>
+                <goals>
+                    <goal>modl</goal>
+                </goals>
+            </execution>
+            <execution>
+                <id>post-module</id>
+                <phase>install</phase>
+                <goals>
+                    <goal>modl</goal>
+                    <goal>post</goal>
+                </goals>
+            </execution>
+        </executions>
+```
 
 This will allow you to install your package to the gateway via the following command:</br>
 
