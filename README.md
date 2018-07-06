@@ -152,6 +152,7 @@ Save the file and finally, resolve java docs via maven:
 ==================
 <code>Setup Module Installing</code>
 ------------------------------------
+Make sure you have changed the repository URL's from the above "Java Docs" section before continuing.
 
 In order to *install your module quickly* and *without signing* you need to do the following:
 
