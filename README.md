@@ -117,6 +117,21 @@ Change directory to the "ArtifactID"</br>
 
 ------
 
+I will share how I prefer to open the project for the first time. Of course there are many ways, however.
+
+In the same CMD prompt, after the steps above, I type:
+
+    explorer .
+    
+This will open the current directory in the windows explorer. 
+From this folder, locate the "pom.xml" file.
+Right click on the file and Open With -> (Your IDE of Choice) I.E. Intellij
+(If you do not see the IDE in the list you may have to choose to view more apps to locate it.)
+
+This will load the project along with it's dependencies.
+
+Continue on for more goodies...
+
 <b>JAVA DOCS</b>
 =====
 <code>Setup Java Docs</code>
