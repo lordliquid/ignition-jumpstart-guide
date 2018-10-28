@@ -137,7 +137,8 @@ Continue on for more goodies...
 <code>Setup Java Docs</code>
 -------------------------------
 
-The archetype generated from the instructions above will produce a POM.xml that references older repository URLs.</br>
+At the time of writing this.. The archetype generated from the instructions above will produce a POM.xml that references older repository URLs.</br>
+If they are already changed in the pom.xml file you can skip this part.
 I will attempt to walk you through this fix now.
 
 
