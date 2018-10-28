@@ -48,12 +48,14 @@ Choose com.inductiveautomation.ignitionsdk:client-designer-gateway-archetype ver
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
 2: 1.0.2</kbd></br>
 <kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
-3: 1.0.3</kbd></br></br>
+3: 1.0.3</kbd></br>
+<kbd style="background-color: #000000; color: white; font-style: bold; font-size: 12px">
+4: 1.1.0</kbd></br></br>
 
 
-*Simply pick the version you want ( Most likely option 3, the current latest version )*
+*Simply pick the version you want ( Most likely option 4, the current latest version )*
 
-    3
+    4
 
 --------
 
